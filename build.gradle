@@ -26,8 +26,6 @@ dependencies {
 
 	compileOnly "org.springframework.boot:spring-boot-devtools"
 	
-	providedRuntime "org.springframework.boot:spring-boot-starter-tomcat"
-	
 }
 
 test {
